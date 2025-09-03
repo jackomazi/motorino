@@ -1,6 +1,6 @@
 /* Creazione utente VGLSA
 */
-
+--CIAOO
 DROP USER vglsa CASCADE;
 
 CREATE USER vglsa IDENTIFIED BY vglsa;
